@@ -5,7 +5,7 @@
     Date of interaction: 31-1-2026
     Mode of interaction: video call
     Duration (in-minutes):33mins
-    Publicly accessible Video link: https://drive.google.com/file/d/1Dh2gzy5vnhfzDItBVz4XFIGoXVoSpAO3/view?usp=sharing
+    Publicly accessible Video link: [text](https://drive.google.com/file/d/1Dh2gzy5vnhfzDItBVz4XFIGoXVoSpAO3/view?usp=sharing)
 ## Domain Expert Details
     Role/ designation: Associate Lawyer
     Experience in the domain: Corporate Law(4yrs or Exp.)
