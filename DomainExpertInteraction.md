@@ -5,23 +5,23 @@
     Date of interaction: 31-1-2026
     Mode of interaction: video call
     Duration (in-minutes):33mins
-    Publicly accessible Video link: 
+    Publicly accessible Video link: https://drive.google.com/file/d/1Dh2gzy5vnhfzDItBVz4XFIGoXVoSpAO3/view?usp=sharing
 ## Domain Expert Details
     Role/ designation: Associate Lawyer
     Experience in the domain: Corporate Law(4yrs or Exp.)
     Nature of work: Operational
 ## Domain Context and Terminology
-- How would you describe the overall purpose of this problem statement in your daily work?
+- Describing the overall purpose of this problem statement
   The overall purpose of this problem statement is to streamline and digitize daily legal operations by providing a unified system that connects client interactions with internal law firm workflows. In everyday practice, it aims to reduce manual effort, improve coordination among legal staff, ensure secure handling of documents, and make consultations and case tracking more efficient and transparent for both clients and lawyers.
   
 
-- What are the primary goals or outcomes of this problem statement?
-  To simplify how clients access legal services through online consultations
-  To improve transparency and communication between clients and legal professionals
-  To support consistent and structured legal workflows from consultation to case resolution
-  To ensure secure, role-based access to sensitive legal information
+- Primary Goals and Outcomes of our problem statement
+  - To simplify how clients access legal services through online consultations
+  - To improve transparency and communication between clients and legal professionals
+  - To support consistent and structured legal workflows from consultation to case resolution
+  - To ensure secure, role-based access to sensitive legal information
 
-- List key terms used by the domain expert and their meanings (Copy these to definition.yml)
+
 
 | Term | Meaning as explained by the expert |
 |---|---|
@@ -31,7 +31,7 @@
 | Clerk / Intern | A clerk or intern assists lawyers with documentation, case preparation, and administrative legal tasks under supervision |  
 
 ## Actors and Responsibilities
-- Identify the different roles involved and what they do in practice.
+
 
 | Actor / Role | Responsibilities |
 |---|---|
@@ -42,7 +42,7 @@
  
 
 ## Core workflows
-Description of at least 2-3 real workflows as explained by the domain expert
+
 - Client onboarding
   - Client goes to firm
   - Firms assigns a lawyer according to condition
@@ -64,7 +64,7 @@ Description of at least 2-3 real workflows as explained by the domain expert
   - Gives schedule to lawyer
 
 ## Rules, Constraints, and Exceptions
-Document rules that govern how the domain operates.
+
   - Mandatory rules or policies:
     - Client Confidentiality
     - Role based Access
@@ -108,8 +108,8 @@ Document rules that govern how the domain operates.
   - Client confidentiality is a critical requirement and must be strictly maintained.
   - Role-based access control is necessary due to different responsibilities of lawyers, interns,   and administrators.
   - Informal communication tools such as WhatsApp are widely used for client–lawyer interaction.
+  - Billing practices vary across lawyers and are not uniformly standardized.
 
-Billing practices vary across lawyers and are not uniformly standardized.
 - What assumptions that were corrected 
   - We initially assumed that some scheduling tools might already be in use; however, scheduling is largely handled through personal diaries or manual notes.
   - It was assumed that billing structures are generally consistent, but in practice, billing methods differ significantly (per-hearing vs lump-sum).
