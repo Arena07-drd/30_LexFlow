@@ -35,7 +35,7 @@ This project proposes a Unified Digital Platform that onboards law firms and dig
 - Restricted document visibility  
 - Role-based permissions  
 - Audit logs for data access  
-- Encrypted chats and documents.
+- Encryption for chats and files
 - Secure authentication mechanisms  
 
 #### Unified Payment Management
